@@ -1,10 +1,4 @@
-# Online-Tutor-System-PHP
-
-## Summary
-Hello friends, This is my online tutor management project. This is free. Anybody can use and moderate this project.
-
-### Youtube Preview
-From youtube you can see it's demo preview. Link: https://www.youtube.com/watch?v=Em6LmPH7-e0
+# Online-Tutor
 
 ## Platform Used
 ### Front-End
